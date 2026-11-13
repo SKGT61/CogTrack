@@ -1,0 +1,6 @@
+{
+  "name": "CognitiveTrack - Gestión de Avance en Aprendizaje",
+  "description": "Plataforma de seguimiento y métricas de progreso diario en idiomas, matemáticas, ingeniería y metas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
